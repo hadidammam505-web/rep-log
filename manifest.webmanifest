@@ -1,0 +1,10 @@
+{
+  "name": "Rep Log",
+  "short_name": "Rep Log",
+  "description": "Offline bilingual gym tracker with PRs, 1RM estimates and a rest timer.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0b0d",
+  "theme_color": "#0b0b0d",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
